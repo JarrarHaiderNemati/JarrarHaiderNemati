@@ -8,7 +8,7 @@
 
 <br />
 
-<a href="https://www.linkedin.com/in/jarrar-haider-955a87285/">
+<a href="https://www.linkedin.com/in/jarrar-haider-nemati-955a87285/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:jarrarnemati@gmail.com">
@@ -143,7 +143,7 @@ I'm always open to learning, collaborating, and building interesting AI projects
 <a href="mailto:jarrarnemati@gmail.com">
   <img src="https://img.shields.io/badge/Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://www.linkedin.com/in/jarrar-haider-955a87285/">
+<a href="https://www.linkedin.com/in/jarrar-haider-nemati-955a87285/">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
