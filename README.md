@@ -89,7 +89,7 @@ I enjoy building practical AI products: tools that can reason, search, remember 
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=python,js,ts,java" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=python,js" alt="Languages" />
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend" />
