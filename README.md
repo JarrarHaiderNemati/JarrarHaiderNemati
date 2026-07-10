@@ -32,12 +32,11 @@ class JarrarHaiderNemati:
     currently_learning = [
         "Deep Learning",
         "Computer Vision",
-        "LangGraph",
         "Production AI systems"
     ]
 
     building_with = [
-        "Python", "JavaScript", "TypeScript",
+        "Python", "JavaScript",
         "React", "Next.js", "Node.js",
         "FastAPI", "MongoDB"
     ]
@@ -70,7 +69,7 @@ I enjoy building practical AI products: tools that can reason, search, remember 
   </tr>
   <tr>
     <td width="50%">
-      <h3>AI Video Understanding</h3>
+      <h3>AI Video Understanding (in progress)</h3>
       <p>Video transcription and frame understanding workflow using Whisper and vision-language models.</p>
       <p><strong>Focus:</strong> transcription, multimodal AI, summarization</p>
     </td>
